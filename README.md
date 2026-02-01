@@ -9,12 +9,11 @@ I am an aspiring Computer Science student and a self-taught programmer, currentl
 -  Learning: **Data Structures, Git/GitHub, and Clean Code Practices**
 -  Goal: To become a "Diamond Student" and a top-tier Software Engineer.
 
-## 🛠️ Technical Toolbox
+## Technical Toolbox
 - **Languages:** C (Intermediate), C++ (Learning)
 - **Tools:** Git, GitHub, VS Code
-- **Concepts:** Mathematical Logic, Robust Error Handling
-
-## 📊 My GitHub Stats
+- **Concepts:** Mathematical Logic, Robust Error Handlin
+##  My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabihaannatoma-lab&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaannatoma-lab&layout=compact&theme=radical)
 
