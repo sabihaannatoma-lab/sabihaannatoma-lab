@@ -14,8 +14,10 @@ I am an aspiring Computer Science student and a self-taught programmer, currentl
 - **Tools:** Git, GitHub, VS Code
 - **Concepts:** Mathematical Logic, Robust Error Handlin
 ##  My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabihaannatoma-lab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaannatoma-lab&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sabihaannatoma-lab&show_icons=true&theme=radical" alt="Sabiha's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaannatoma-lab&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
