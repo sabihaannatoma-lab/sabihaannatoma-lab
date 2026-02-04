@@ -13,10 +13,11 @@ I am an aspiring Computer Science student and a self-taught programmer, currentl
 - **Languages:** C (Intermediate), C++ (Learning)
 - **Tools:** Git, GitHub, VS Code
 - **Concepts:** Mathematical Logic, Robust Error Handling
-## My GitHub stats
-### My GitHub stats
-![Annatoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabihaannatoma-lab&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaannatoma-lab&layout=compact&theme=radical)
+### My GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabihaannatoma-lab&show_icons=true&theme=dracula" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabihaannatoma-lab&layout=compact&theme=dracula" alt="Top Languages" width="300" />
+</p>
 
 
 ## 📬 Let's Connect!
