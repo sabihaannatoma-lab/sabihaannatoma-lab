@@ -1,3 +1,4 @@
+![Banner](Gemini_Generated_Image_w5xgdqw5xgdqw5xg.png)
 # Hi there, I'm Sabiha Tabassum Annatoma 
 ### Aspiring Software Engineer | Problem Solver | Tech Enthusiast
 I am an aspiring Computer Science student and a self-taught programmer, currently building a strong foundation in C and Problem Solving before starting my university journey.
